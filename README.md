@@ -60,7 +60,7 @@
 
 ---
 
-## 🌐 CONNECT TO THE CYBER NETWORK
+<!-- ## 🌐 CONNECT TO THE CYBER NETWORK -->
 
 <div align="center">
 
@@ -75,9 +75,6 @@
 
 </div>
 
----
-
-<!-- ## 🐍 SNAKE GAME -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" width="700"/>
