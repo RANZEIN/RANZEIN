@@ -77,7 +77,7 @@
 
 ---
 
-## 🐍 SNAKE GAME
+<!-- ## 🐍 SNAKE GAME -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" width="700"/>
@@ -108,6 +108,6 @@
     <br>
     <b>attendify-apps</b>
   </a>
-</div> -->
+</div>
 
----
+--- -->
