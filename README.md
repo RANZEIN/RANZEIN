@@ -23,10 +23,10 @@
 <div align="center">
 
 ### 🚀 PRIMARY WEAPONS OF CHOICE
-<img src="https://skillicons.dev/icons?i=dart,flutter,js,html,css,python,react&theme=dark" alt="Primary Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=dart,flutter,js,html,css,laravel,react&theme=dark" alt="Primary Tech Stack"/>
 
 ### 🛠️ DEVELOPMENT ARSENAL  
-<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,git,github,vscode,androidstudio,figma&theme=dark" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,git,github,vscode,androidstudio,,cursor,figma&theme=dark" alt="Development Tools"/>
 
 ### 🎨 CREATIVE & DESIGN SUITE
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,aftereffects,premiere&theme=dark" alt="Design Arsenal"/>
@@ -44,8 +44,8 @@
 | **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ████████░░░░ 80% |
 | **Frontend Magic** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | █████████░░░ 85%  |
 | **UI/UX Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) | ███████████░ 90% |
-| **Backend Systems** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ███████░░░░░ 75% |
-| **Database Management** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) | ████████░░░░ 80% |
+| **Backend Systems** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ████████░░░░ 80% |
+| **Database Management** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) | ███████░░░░░ 75% |
 
 </div>
 
