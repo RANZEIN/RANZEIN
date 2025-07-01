@@ -26,7 +26,7 @@
 <img src="https://skillicons.dev/icons?i=dart,flutter,js,html,css,react,laravel,tailwind,scss&theme=dark" alt="Primary Tech Stack"/>
 
 ### 🛠️ DEVELOPMENT ARSENAL  
-<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,git,github,vscode,androidstudio,figma,cursor&theme=dark" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,git,github,vscode,androidstudio,figma&theme=dark" alt="Development Tools"/>
 
 ### 🎨 CREATIVE & DESIGN SUITE
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,aftereffects,premiere&theme=dark" alt="Design Arsenal"/>
