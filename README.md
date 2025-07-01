@@ -3,7 +3,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" height="250" alt="Matrix Digital Rain"/>
 </div>
 
----
 
 <div align="center">
 
@@ -60,11 +59,11 @@
 
 ---
 
-<!-- ## 🌐 CONNECT TO THE CYBER NETWORK -->
+## 🌐 CONNECT TO THE CYBER NETWORK
 
 <div align="center">
 
-### 📡 SECURE DIGITAL COMMUNICATION CHANNELS
+<!-- ### 📡 SECURE DIGITAL COMMUNICATION CHANNELS -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/muhammad-andhika-rahmani/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ranzdhika@gmail.com)
