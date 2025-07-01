@@ -23,7 +23,7 @@
 <div align="center">
 
 ### 🚀 PRIMARY WEAPONS OF CHOICE
-<img src="https://skillicons.dev/icons?i=dart,flutter,js,html,css,python,react&theme=dark" alt="Primary Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=dart,flutter,js,html,css,react,laravel&theme=dark" alt="Primary Tech Stack"/>
 
 ### 🛠️ DEVELOPMENT ARSENAL  
 <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,git,github,vscode,androidstudio,figma&theme=dark" alt="Development Tools"/>
@@ -69,8 +69,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ranzdhika@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/RANZEIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=0d1117)](https://ranzein.github.io)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](#)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/randhiikaa)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/ranzeiin)
 
 </div>
 
