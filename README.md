@@ -42,17 +42,6 @@
 | **Database Management** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) | ████████░░░░ 80% |
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RANZEIN&theme=tokyonight&background=0d1117&ring=00ff41&fire=00d4aa&currStreakLabel=00ff41&currStreakNum=ffffff&sideLabels=0099ff&sideNums=ffffff&dates=ffffff&border=00ff41&border_radius=20" alt="Coding Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RANZEIN&theme=tokyo-night&bg_color=0d1117&color=00ff41&line=0099ff&point=00d4aa&area=true&area_color=00ff41&title_color=00ff41&custom_title=🔥%20RANZEIN's%20Contribution%20Journey%20-%20518%20Commits%20Strong!" alt="Contribution Graph" />
-</div>
-
 ---
 
 
