@@ -18,41 +18,17 @@
 
 ---
 
-<div align="center">
-
-<span style="font-family:'Segoe UI', 'Roboto', 'Arial', sans-serif; font-size:2.1rem; font-weight:700; letter-spacing:2px; color:#00ff41;">⚡ CYBER TECH ARSENAL</span>
-
-</div>
-
----
-
-## 🚀 PRIMARY WEAPONS OF CHOICE
+## ⚡ CYBER TECH ARSENAL
 
 <div align="center">
 
-<span style="font-family:'Segoe UI', 'Roboto', 'Arial', sans-serif; font-size:1.5rem; font-weight:600; color:#00d4aa;">🚀 PRIMARY WEAPONS OF CHOICE</span>
+### 🚀 PRIMARY WEAPONS OF CHOICE
 <img src="https://skillicons.dev/icons?i=dart,flutter,js,html,css,react,laravel,tailwind,scss&theme=dark" alt="Primary Tech Stack"/>
 
-</div>
+### 🛠️ DEVELOPMENT ARSENAL  
+<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,git,github,vscode,androidstudio,figma&theme=dark" alt="Development Tools"/>
 
----
-
-## 🛠️ DEVELOPMENT ARSENAL
-
-<div align="center">
-
-<span style="font-family:'Segoe UI', 'Roboto', 'Arial', sans-serif; font-size:1.5rem; font-weight:600; color:#00d4aa;">🛠️ DEVELOPMENT ARSENAL</span>
-<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,git,github,vscode,androidstudio,figma,cursor&theme=dark" alt="Development Tools"/>
-
-</div>
-
----
-
-## 🎨 CREATIVE & DESIGN SUITE
-
-<div align="center">
-
-<span style="font-family:'Segoe UI', 'Roboto', 'Arial', sans-serif; font-size:1.5rem; font-weight:600; color:#00d4aa;">🎨 CREATIVE & DESIGN SUITE</span>
+### 🎨 CREATIVE & DESIGN SUITE
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,aftereffects,premiere&theme=dark" alt="Design Arsenal"/>
 
 </div>
