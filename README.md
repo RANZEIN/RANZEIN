@@ -77,7 +77,37 @@
 
 ---
 
-<!-- Footer Banner -->
+## 🐍 SNAKE GAME
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" width="700"/>
+  <br>
+  <i>Watch your contributions come alive as a Snake!</i>
 </div>
+
+---
+
+## 📦 MY REPOSITORIES
+
+- [php-soundboard-api-master](https://github.com/RANZEIN/php-soundboard-api-master) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+  <br><sub>Soundboard API in PHP</sub>
+
+- [flutter-nexus-score-app-dev](https://github.com/RANZEIN/flutter-nexus-score-app-dev) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+  <br><sub>Score app built with Flutter (Private)</sub>
+
+- [laravel-dashboard-starter-template](https://github.com/RANZEIN/laravel-dashboard-starter-template) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  <br><sub>Starter template for Laravel dashboards</sub>
+
+---
+
+## 🏢 ORGANIZATIONS
+
+<div align="center">
+  <a href="https://github.com/attendify-apps">
+    <img src="https://avatars.githubusercontent.com/u/168049964?s=200&v=4" width="80" alt="attendify-apps logo"/>
+    <br>
+    <b>attendify-apps</b>
+  </a>
+</div>
+
+---
