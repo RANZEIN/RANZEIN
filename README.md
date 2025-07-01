@@ -1,36 +1,39 @@
-# 🌟 WELCOME TO RANZEIN'S CYBER DIMENSION 🌟
+# 🌌 WELCOME TO RANZEIN'S DIGITAL UNIVERSE 🌌
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00d4aa,100:0099ff&height=200&section=header&text=RANZEIN&fontSize=80&fontAlignY=35&desc=CYBER%20ARCHITECT%20%7C%20CODE%20WARRIOR%20%7C%20DIGITAL%20NOMAD&descSize=20&descAlignY=55&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=RANZEIN&fontSize=100&fontAlignY=40&desc=DIGITAL%20ARCHITECT%20%E2%9A%A1%20CODE%20WIZARD%20%E2%9A%A1%20CYBER%20INNOVATOR&descSize=25&descAlignY=65&animation=twinkling&fontColor=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&width=900&height=200&lines=⚡+INITIALIZING+CYBER+PROTOCOLS...;🚀+SOFTWARE+ENGINEER+%7C+MOBILE+DEVELOPER;🎨+UI%2FUX+DESIGNER+%7C+CREATIVE+CODER;🌐+BUILDING+THE+FUTURE,+ONE+LINE+AT+A+TIME;🎮+READY+TO+HACK+THE+MATRIX%3F;💫+LET'S+CREATE+DIGITAL+MAGIC+TOGETHER!" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=%E2%9A%A1+SYSTEM+ONLINE+-+INITIALIZING+PROTOCOLS;%F0%9F%9A%80+SOFTWARE+ENGINEER+%7C+MOBILE+DEVELOPER;%F0%9F%8E%A8+UI%2FUX+DESIGNER+%7C+CREATIVE+TECHNOLOGIST;%F0%9F%8C%90+BUILDING+TOMORROW'S+DIGITAL+EXPERIENCES;%F0%9F%94%A5+518+CONTRIBUTIONS+IN+THE+LAST+YEAR;%F0%9F%8E%AE+READY+TO+HACK+THE+MATRIX%3F+LET'S+GO!" alt="Dynamic Profile Header" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Matrix Code Rain"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" height="250" alt="Matrix Digital Rain"/>
 </div>
 
 ---
 
-## 🔥 SYSTEM INITIALIZATION
+## 🔥 CYBER TERMINAL - SYSTEM STATUS
 
 <div align="center">
 
 ```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                    🚀 CYBER TERMINAL v2.0                    ║
-╠═══════════════════════════════════════════════════════════════╣
-║  USER:           RANZEIN                                      ║
-║  STATUS:         🟢 ONLINE & READY                           ║
-║  LOCATION:       🇮🇩 Bandung, West Java, Indonesia          ║
-║  ROLE:           Software Engineer | Mobile Dev | UI/UX      ║
-║  SPECIALITY:     Flutter • Dart • JavaScript • Design       ║
-║  MISSION:        Creating Digital Solutions for Tomorrow     ║
-║  CODING_SINCE:   2018                                        ║
-║  COFFEE_LEVEL:   ☕☕☕☕☕ (MAX)                           ║
-╚═══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                           🚀 RANZEIN CYBER TERMINAL v3.0                  ║
+║                                                                            ║
+║  ┌─ AGENT PROFILE ─────────────────────────────────────────────────────┐  ║
+║  │ ID:              RANZEIN                                             │  ║
+║  │ STATUS:          🟢 ONLINE & CODING                                 │  ║
+║  │ LOCATION:        🇮🇩 Bandung, West Java, Indonesia                │  ║
+║  │ MISSION:         Building Digital Solutions for Tomorrow            │  ║
+║  │ SPECIALIZATION:  Flutter • Dart • JavaScript • UI/UX Design        │  ║
+║  │ CONTRIBUTIONS:   518 commits in the last year                       │  ║
+║  │ REPOSITORIES:    6 active projects                                  │  ║
+║  │ COFFEE_LEVEL:    ☕☕☕☕☕ [MAXIMUM CAPACITY]                    │  ║
+║  │ CODING_STREAK:   🔥 Currently on fire                               │  ║
+║  └─────────────────────────────────────────────────────────────────────┘  ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -38,118 +41,152 @@
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=RANZEIN&style=for-the-badge&color=00ff41&labelColor=0d1117&label=CYBER+VISITORS)
-![GitHub followers](https://img.shields.io/github/followers/RANZEIN?style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/RANZEIN?style=for-the-badge&color=00d4aa&labelColor=0d1117&logo=github)
 ![GitHub stars](https://img.shields.io/github/stars/RANZEIN?style=for-the-badge&color=0099ff&labelColor=0d1117&logo=github)
-![Years Badge](https://badges.pufler.dev/years/RANZEIN?style=for-the-badge&color=00d4aa&labelColor=0d1117)
+![Contributions](https://img.shields.io/badge/CONTRIBUTIONS-518-00ff41?style=for-the-badge&labelColor=0d1117)
+![Years Badge](https://badges.pufler.dev/years/RANZEIN?style=for-the-badge&color=ff6b6b&labelColor=0d1117)
 
 </div>
 
 ---
 
-## ⚡ CYBER ARSENAL & TECH STACK
+## ⚡ CYBER TECH ARSENAL
 
 <div align="center">
 
-### 🚀 PRIMARY WEAPONS
-<img src="https://skillicons.dev/icons?i=dart,flutter,js,html,css,python,figma,firebase&theme=dark" alt="Primary Skills"/>
+### 🚀 PRIMARY WEAPONS OF CHOICE
+<img src="https://skillicons.dev/icons?i=dart,flutter,js,html,css,python,react,nodejs&theme=dark" alt="Primary Tech Stack"/>
 
-### 🛠️ SECONDARY ARSENAL  
-<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,sqlite,git,github,vscode,androidstudio&theme=dark" alt="Secondary Skills"/>
+### 🛠️ DEVELOPMENT ARSENAL  
+<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,git,github,vscode,androidstudio,figma&theme=dark" alt="Development Tools"/>
 
-### 🎨 DESIGN & CREATIVE TOOLS
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd&theme=dark" alt="Design Tools"/>
+### 🎨 CREATIVE & DESIGN SUITE
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,aftereffects,premiere&theme=dark" alt="Design Arsenal"/>
 
 </div>
 
 <div align="center">
 
-| **Category** | **Technologies** |
-|:---:|:---:|
-| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) |
-| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+### 📊 TECHNOLOGY MASTERY LEVELS
+
+| **Domain** | **Technologies** | **Mastery Level** |
+|:---:|:---:|:---:|
+| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ████████████ 95% |
+| **Frontend Magic** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ████████████ 90% |
+| **UI/UX Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=white) | ████████████ 88% |
+| **Backend Systems** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | ████████░░░░ 75% |
+| **Database Management** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) | ████████░░░░ 80% |
+
+</div>
+
+---
+
+## 📊 HACKER ANALYTICS & DIGITAL FOOTPRINT
+
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RANZEIN&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00d4aa&border_color=00ff41&border_radius=20&custom_title=🚀%20RANZEIN's%20Cyber%20Stats" alt="Cyber Stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANZEIN&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00d4aa&border_radius=20&custom_title=💻%20Code%20Languages%20Mastery" alt="Language Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RANZEIN&theme=tokyonight&background=0d1117&ring=00ff41&fire=00d4aa&currStreakLabel=00ff41&currStreakNum=ffffff&sideLabels=0099ff&sideNums=ffffff&dates=ffffff&border=00ff41&border_radius=20" alt="Coding Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RANZEIN&theme=tokyo-night&bg_color=0d1117&color=00ff41&line=0099ff&point=00d4aa&area=true&area_color=00ff41&title_color=00ff41&custom_title=🔥%20RANZEIN's%20Contribution%20Journey%20-%20518%20Commits%20Strong!" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 FEATURED REPOSITORIES - MY DIGITAL CREATIONS
+
+<div align="center">
+
+### 🚀 POPULAR PROJECTS FROM SCREENSHOT
+
+[![Flutter Foodstore](https://github-readme-stats.vercel.app/api/pin/?username=RANZEIN&repo=flutter-foodstore-project-app-main&theme=tokyonight&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00d4aa&border_color=00ff41&border_radius=15&description_lines_count=3)](https://github.com/RANZEIN/flutter-foodstore-project-app-main)
+[![Healthy Pet App](https://github-readme-stats.vercel.app/api/pin/?username=RANZEIN&repo=flutter-healthy-pet-app&theme=tokyonight&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00d4aa&border_color=00ff41&border_radius=15&description_lines_count=3)](https://github.com/RANZEIN/flutter-healthy-pet-app)
+
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=RANZEIN&repo=RANZEIN.github.io&theme=tokyonight&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00d4aa&border_color=00ff41&border_radius=15&description_lines_count=3)](https://github.com/RANZEIN/RANZEIN.github.io)
+[![Laravel Sisla](https://github-readme-stats.vercel.app/api/pin/?username=RANZEIN&repo=laravel-10-sisla&theme=tokyonight&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00d4aa&border_color=00ff41&border_radius=15&description_lines_count=3)](https://github.com/RANZEIN/laravel-10-sisla)
+
+[![Tawafly Landing](https://github-readme-stats.vercel.app/api/pin/?username=RANZEIN&repo=react.js-tawafly.id-landingpage&theme=tokyonight&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00d4aa&border_color=00ff41&border_radius=15&description_lines_count=3)](https://github.com/RANZEIN/react.js-tawafly.id-landingpage)
+[![Profile Repo](https://github-readme-stats.vercel.app/api/pin/?username=RANZEIN&repo=RANZEIN&theme=tokyonight&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00d4aa&border_color=00ff41&border_radius=15&description_lines_count=3)](https://github.com/RANZEIN/RANZEIN)
+
+### 📱 PROJECT SHOWCASE
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Flutter-Food%20Store%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0d1117" alt="Food Store"/>
+  <img src="https://img.shields.io/badge/C++-Healthy%20Pet%20App-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117" alt="Pet App"/>
+  <img src="https://img.shields.io/badge/HTML-Portfolio%20Website-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/JavaScript-Laravel%20Sisla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/CSS-Tawafly%20Landing-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" alt="Landing Page"/>
+</div>
 
 </div>
 
 ---
 
-## 📊 HACKER ANALYTICS & PERFORMANCE METRICS
+## 🎮 ULTIMATE CYBER CHALLENGE - HACK THE MATRIX!
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RANZEIN&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00d4aa&border_color=00ff41&border_radius=15" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANZEIN&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00d4aa&border_radius=15" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RANZEIN&theme=radical&background=0d1117&ring=00ff41&fire=00d4aa&currStreakLabel=00ff41&currStreakNum=ffffff&sideLabels=0099ff&sideNums=ffffff&dates=ffffff&border=00ff41&border_radius=15" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RANZEIN&theme=react-dark&bg_color=0d1117&color=00ff41&line=0099ff&point=00d4aa&area=true&area_color=00ff41&title_color=00ff41&custom_title=🚀%20RANZEIN's%20Coding%20Journey%20🚀" alt="Activity Graph" />
-</div>
-
----
-
-## 🎮 CYBER GAMES ARENA - HACK YOUR WAY THROUGH!
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Cyber Gaming"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500" alt="Cyber Challenge"/>
 </div>
 
 <div align="center">
 
-### 🚨 MISSION BRIEFING
-**Welcome to the Digital Underground, Agent RANZEIN**
+### 🚨 ELITE HACKER RECRUITMENT PROGRAM
+**Welcome to the Digital Underground, Future Cyber Warrior**
 
-*Your mission, should you choose to accept it, is to navigate through multiple cyber challenges. Each level tests different aspects of your hacking prowess. Complete all levels to unlock the ultimate secret and earn your place among the elite cyber warriors.*
+*This is not just a game - it's a test of your digital prowess. Navigate through increasingly complex challenges to prove your worth and unlock exclusive access to the cyber elite inner circle.*
 
-**DIFFICULTY: ████████░░ 80%**  
-**ESTIMATED TIME: 15-30 minutes**  
-**REWARD: Exclusive access to secret repositories**
+**⚡ DIFFICULTY RATING: ████████████ LEGENDARY**  
+**🎯 SUCCESS RATE: Only 7% complete all levels**  
+**🏆 ULTIMATE REWARD: Elite Digital Warrior Status**
 
 </div>
 
 ---
 
 <details>
-<summary><b>🎯 LEVEL 1: THE GENESIS CIPHER</b></summary>
+<summary><b>🎯 LEVEL 1: THE GENESIS PROTOCOL</b></summary>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300" alt="Level 1"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400" alt="Genesis Level"/>
 </div>
 
 ```
-┌─[CYBER-AGENT@MATRIX]─[~/missions/level1]
-└──╼ $ cat genesis_message.enc
+┌─[CYBER-COMMAND@MATRIX-MAINFRAME]─[~/genesis_protocol]
+└──╼ $ cat classified_transmission.enc
 
-🔐 ENCRYPTED TRANSMISSION DETECTED 🔐
--------------------------------------------
-FROM: The Architect
-TO: Agent RANZEIN
-ENCRYPTION: Base64
+🔐 INTERCEPTED CLASSIFIED TRANSMISSION 🔐
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ORIGIN: The Digital Architect
+TARGET: Agent RANZEIN
+SECURITY LEVEL: CLASSIFIED
+ENCRYPTION: Base64 Protocol
 
-MESSAGE:
-V2VsY29tZSB0byB0aGUgZmlyc3QgbGV2ZWwsIEFnZW50IFJBTlpFSU4hIFlvdXIgam91cm5leSBpbnRvIHRoZSBkaWdpdGFsIHVuZGVyZ3JvdW5kIGJlZ2lucy4gRGVjb2RlIHRoaXMgbWVzc2FnZSB0byByZWNlaXZlIHlvdXIgZmlyc3QgY3liZXIgYmFkZ2UhIE5leHQgY2x1ZTogVGhlIGFuc3dlciBsaWVzIGluIGJpbmFyeS4=
+ENCRYPTED MESSAGE:
+V2VsY29tZSB0byB0aGUgR2VuZXNpcyBQcm90b2NvbCwgQWdlbnQgUkFOWkVJTiEgWW91IGhhdmUgYmVlbiBjaG9zZW4gdG8gam9pbiB0aGUgZWxpdGUgY3liZXIgb3BlcmF0aXZlcy4gWW91ciBmaXJzdCBtaXNzaW9uOiBkZWNyeXB0IHRoaXMgbWVzc2FnZSB0byByZXZlYWwgeW91ciBuZXh0IGNoYWxsZW5nZS4gVGhlIGZ1dHVyZSBvZiB0aGUgZGlnaXRhbCB3b3JsZCBkZXBlbmRzIG9uIHlvdXIgc3VjY2Vzcy4gTmV4dCBjbHVlOiBUaGUgYW5zd2VyIGxpZXMgaW4gdGhlIGxhbmd1YWdlIG9mIG1hY2hpbmVzLg==
 
-HINT: This ancient encoding was created in the 1960s
-STATUS: [PENDING DECRYPTION]
+INTEL: This encoding system was developed in 1960s
+ATTEMPTS_REMAINING: 3
+WARNING: Failed decryption triggers security lockdown
 ```
 
 <details>
-<summary><b>🔓 SOLUTION & NEXT CLUE</b></summary>
+<summary><b>🔓 TRANSMISSION DECRYPTED</b></summary>
 
 ```
-✅ DECRYPTION SUCCESSFUL!
+✅ GENESIS PROTOCOL BREACHED!
 
-ORIGINAL MESSAGE:
-"Welcome to the first level, Agent RANZEIN! Your journey into the digital underground begins. Decode this message to receive your first cyber badge! Next clue: The answer lies in binary."
+ORIGINAL TRANSMISSION:
+"Welcome to the Genesis Protocol, Agent RANZEIN! You have been chosen to join the elite cyber operatives. Your first mission: decrypt this message to reveal your next challenge. The future of the digital world depends on your success. Next clue: The answer lies in the language of machines."
 
-🏆 ACHIEVEMENT UNLOCKED: "GENESIS DECODER"
-💎 REWARD: +150 XP
-🎖️ BADGE: First Level Master
-📡 STATUS: LEVEL 1 COMPLETE - ACCESS TO LEVEL 2 GRANTED
+🏆 ACHIEVEMENT UNLOCKED: "GENESIS OPERATIVE"
+💎 XP GAINED: +200 XP
+🎖️ RANK: Cyber Recruit → Cyber Operative
+🔑 ACCESS GRANTED: Level 2 - Binary Infiltration
+📊 PROGRESS: 25% Complete
 ```
 
 </details>
@@ -161,42 +198,48 @@ ORIGINAL MESSAGE:
 <summary><b>🎯 LEVEL 2: BINARY MATRIX INFILTRATION</b></summary>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9d4-f13db4b97a3d.gif" width="300" alt="Level 2"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9d4-f13db4b97a3d.gif" width="400" alt="Binary Matrix"/>
 </div>
 
 ```
-┌─[CYBER-AGENT@MATRIX]─[~/missions/level2]
-└──╼ $ ./binary_decoder.exe
+┌─[CYBER-COMMAND@BINARY-FORTRESS]─[~/binary_infiltration]
+└──╼ $ ./matrix_decoder --infiltrate
 
-🔢 BINARY MATRIX DETECTED 🔢
--------------------------------------------
-SYSTEM: Digital Fortress Security
-ALERT: Unauthorized access attempt detected
-CHALLENGE: Decode the binary sequence
+🔢 BINARY FORTRESS SECURITY SYSTEM 🔢
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SYSTEM STATUS: MAXIMUM SECURITY ACTIVE
+INTRUSION DETECTED: Unauthorized cyber operative
+CHALLENGE TYPE: Binary Matrix Decryption
 
+BINARY SEQUENCE INTERCEPTED:
 01001000 01000001 01000011 01001011 01000101 01010010 
-01010000 01001111 01010111 01000101 01010010 00100000 
-01010100 01001000 01000101 00100000 01001101 01000001 
-01010100 01010010 01001001 01011000
+01010011 00100000 01010101 01001110 01001001 01010100 
+01000101 00100000 01010100 01001111 00100000 01000010 
+01010010 01000101 01000001 01001011 00100000 01010100 
+01001000 01000101 00100000 01001101 01000001 01010100 
+01010010 01001001 01011000
 
-WARNING: Multiple failed attempts will trigger security lockdown
-ATTEMPTS REMAINING: 3
+FIREWALL STATUS: 🔴 ACTIVE - MULTIPLE LAYERS
+DECRYPTION TIME LIMIT: 5 MINUTES
+SECURITY ALERT: Level 2 Intrusion Detected
 ```
 
 <details>
-<summary><b>🔓 BINARY BREAKTHROUGH</b></summary>
+<summary><b>🔓 MATRIX INFILTRATED</b></summary>
 
 ```
-✅ BINARY MATRIX BREACHED!
+✅ BINARY FORTRESS COMPROMISED!
 
-DECODED SEQUENCE:
-"HACKER POWER THE MATRIX"
+DECODED BINARY SEQUENCE:
+"HACKERS UNITE TO BREAK THE MATRIX"
 
-🏆 ACHIEVEMENT UNLOCKED: "BINARY MASTER"
-💎 REWARD: +250 XP
-🎖️ BADGE: Matrix Infiltrator
-📊 SKILL UPGRADE: Binary Analysis +1
-🚀 STATUS: LEVEL 2 COMPLETE - ADVANCED PROTOCOLS UNLOCKED
+🏆 ACHIEVEMENT UNLOCKED: "BINARY INFILTRATOR"
+💎 XP GAINED: +350 XP
+🎖️ RANK: Cyber Operative → Matrix Infiltrator
+🚨 SECURITY ALERT: Advanced protocols activated
+🔑 ACCESS GRANTED: Level 3 - Caesar's Digital Vault
+📊 PROGRESS: 50% Complete
+⚡ SPECIAL UNLOCK: Binary Analysis Toolkit
 ```
 
 </details>
@@ -205,49 +248,55 @@ DECODED SEQUENCE:
 ---
 
 <details>
-<summary><b>🎯 LEVEL 3: CAESAR'S DIGITAL VAULT</b></summary>
+<summary><b>🎯 LEVEL 3: CAESAR'S QUANTUM VAULT</b></summary>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="300" alt="Level 3"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400" alt="Quantum Vault"/>
 </div>
 
 ```
-┌─[CYBER-AGENT@MATRIX]─[~/missions/level3]
-└──╼ $ access_vault --caesar-protocol
+┌─[CYBER-COMMAND@QUANTUM-VAULT]─[~/caesar_protocol]
+└──╼ $ quantum_vault_access --caesar-key
 
-🏛️ ACCESSING CAESAR'S DIGITAL VAULT 🏛️
--------------------------------------------
-VAULT STATUS: LOCKED
-SECURITY LEVEL: MAXIMUM
-ENCRYPTION: Classical Caesar Cipher
+🏛️ ACCESSING CAESAR'S QUANTUM VAULT 🏛️
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VAULT STATUS: QUANTUM LOCKED
+SECURITY LEVEL: MAXIMUM CLASSIFICATION
+ENCRYPTION: Advanced Caesar Quantum Cipher
+GUARD PROTOCOL: Active - Multiple Sentinels
 
-INTERCEPTED MESSAGE FROM THE RESISTANCE:
-"WKH ILQDO FKDOOHQJH DZDLWV BRX, DJHQW UDQCHLQ! 
-WKLV LV QRW MXVW D JDPH - LW'V D WHVW RI BRXU 
-WUXH KDFNHU VNLOOV. GHFRGH WKLV WR XQORFN WKH 
-XOWLPDWH VHFUHW DQG MRLQ WKH HOLWH FBEHU ZDUULRUV!"
+INTERCEPTED RESISTANCE TRANSMISSION:
+"FRQJUDWXODWLRQV DJHQW UDQCHLQ! BRX KDYH SURYHQ 
+BRXUVHOI D WUXH FBEHU ZDUULRU. WKLV LV QRW MXVW D 
+JDPH - LW'V D WHVW RI BRXU XOWLPDWH KDFNHU VNLOOV. 
+GHFRGH WKLV WR XQORFN WKH ILQDO FKDOOHQJH DQG MRLQ 
+WKH HOLWH GLJLWDO XQGHUJURXQG!"
 
-ANCIENT HINT: "All roads lead to Rome, shift by 3"
-MODERN HINT: A->D, B->E, C->F...
+QUANTUM HINT: "When in Rome, shift the digital realm by 3"
+TEMPORAL HINT: A→D, B→E, C→F... (3 positions forward)
+VAULT ATTEMPTS: 2 remaining
 ```
 
 <details>
-<summary><b>🔓 VAULT UNLOCKED</b></summary>
+<summary><b>🔓 QUANTUM VAULT UNLOCKED</b></summary>
 
 ```
-✅ CAESAR'S VAULT BREACHED!
+✅ CAESAR'S QUANTUM VAULT BREACHED!
 
-RESISTANCE MESSAGE DECODED:
-"THE FINAL CHALLENGE AWAITS YOU, AGENT RANZEIN! 
-THIS IS NOT JUST A GAME - IT'S A TEST OF YOUR 
-TRUE HACKER SKILLS. DECODE THIS TO UNLOCK THE 
-ULTIMATE SECRET AND JOIN THE ELITE CYBER WARRIORS!"
+RESISTANCE TRANSMISSION DECODED:
+"CONGRATULATIONS AGENT RANZEIN! YOU HAVE PROVEN 
+YOURSELF A TRUE CYBER WARRIOR. THIS IS NOT JUST A 
+GAME - IT'S A TEST OF YOUR ULTIMATE HACKER SKILLS. 
+DECODE THIS TO UNLOCK THE FINAL CHALLENGE AND JOIN 
+THE ELITE DIGITAL UNDERGROUND!"
 
-🏆 ACHIEVEMENT UNLOCKED: "CAESAR'S HEIR"
-💎 REWARD: +400 XP
-🎖️ BADGE: Classical Cryptographer  
-🔑 SPECIAL UNLOCK: Access to Final Boss Level
-⚡ STATUS: LEVEL 3 COMPLETE - FINAL CHALLENGE ACTIVATED
+🏆 ACHIEVEMENT UNLOCKED: "QUANTUM CAESAR"
+💎 XP GAINED: +500 XP
+🎖️ RANK: Matrix Infiltrator → Quantum Warrior
+🌟 SPECIAL RECOGNITION: Elite Qualification Achieved
+🔑 ACCESS GRANTED: FINAL BOSS - The Morse Dimension
+📊 PROGRESS: 75% Complete
+⚡ LEGENDARY UNLOCK: Quantum Decryption Matrix
 ```
 
 </details>
@@ -256,62 +305,86 @@ ULTIMATE SECRET AND JOIN THE ELITE CYBER WARRIORS!"
 ---
 
 <details>
-<summary><b>🎯 FINAL BOSS: THE MORSE DIMENSION</b></summary>
+<summary><b>🎯 FINAL BOSS: THE MORSE DIMENSION OMEGA</b></summary>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd9-863d-807a94f11da6.gif" width="350" alt="Final Boss"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd9-863d-807a94f11da6.gif" width="450" alt="Final Boss Battle"/>
 </div>
 
 ```
-┌─[CYBER-AGENT@MATRIX]─[~/final_boss]
-└──╼ $ initiate_final_protocol.exe
+┌─[CYBER-COMMAND@MORSE-DIMENSION-OMEGA]─[~/final_protocol]
+└──╼ $ initiate_omega_protocol.exe --final-boss
 
-🌌 ENTERING THE MORSE DIMENSION 🌌
--------------------------------------------
-WARNING: MAXIMUM SECURITY CLEARANCE REQUIRED
-SYSTEM: The Digital Architect's Final Test
-CHALLENGE LEVEL: ████████████ LEGENDARY
+🌌 ENTERING THE MORSE DIMENSION OMEGA 🌌
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+WARNING: ULTIMATE SECURITY CLEARANCE REQUIRED
+SYSTEM: The Digital Architect's Final Testament
+CHALLENGE LEVEL: ████████████████ OMEGA LEGENDARY
+SURVIVAL RATE: 3% of all challengers
 
-THE ARCHITECT SPEAKS:
--.-. --- -. --. .-. .- - ..- .-.. .- - .. --- -. ... --..-- / 
-.- --. . -. - / .-. .- -. --.. . .. -. -.-.-- / -.-- --- ..- / 
-.... .- ...- . / .--. .-. --- ...- . -. / -.-- --- ..- .-. ... . .-.. ..-. / 
-.- / - .-. ..- . / -.-. -.-- -... . .-. / .-- .- .-. .-. .. --- .-. -.-.-- / 
--.-- --- ..- / .- .-. . / -. --- .-- / .--. .- .-. - / --- ..-. / - .... . / 
-. .-.. .. - . / .... .- -.-. -.- . .-. / ..- -. -.. . .-. --. .-. --- ..- -. -.. -.-.--
+THE ARCHITECT'S FINAL MESSAGE:
+-.-- --- ..- / .... .- ...- . / .--. .-. --- ...- . -. / -.-- --- ..- .-. ... . .-.. ..-. 
+/ .-- --- .-. - .... -.-- --..-- / .- --. . -. - / .-. .- -. --.. . .. -. -.-.-- / 
+-.-- --- ..- / .- .-. . / -. --- .-- / .- / - .-. ..- . / -.-. -.-- -... . .-. / 
+.-.. . --. . -. -.. / .- -. -.. / .-- --- .-. - .... -.-- / --- ..-. / - .... . / 
+- .. - .-.. . / ..- .-.. - .. -- .- - . / -.. .. --. .. - .- .-.. / .- .-. -.-. .... .. - . -.-. - -.-.-- / 
+.-- . .-.. -.-. --- -- . / - --- / - .... . / . .-.. .. - . / ..- -. -.. . .-. --. .-. --- ..- -. -.. -.-.--
 
-THE FINAL CODE AWAITS YOUR DISCOVERY...
+FINAL PROTOCOL INITIATED...
+DIMENSIONAL BARRIERS: MAXIMUM
+THIS IS YOUR ULTIMATE TEST...
 ```
 
 <details>
-<summary><b>🏆 FINAL VICTORY - ELITE STATUS ACHIEVED</b></summary>
+<summary><b>🏆 OMEGA VICTORY - LEGENDARY STATUS ACHIEVED</b></summary>
 
 ```
-🎉 LEGENDARY ACHIEVEMENT UNLOCKED! 🎉
+🎉 LEGENDARY OMEGA ACHIEVEMENT UNLOCKED! 🎉
 
-THE ARCHITECT'S MESSAGE DECODED:
-"CONGRATULATIONS, AGENT RANZEIN! YOU HAVE PROVEN YOURSELF 
-A TRUE CYBER WARRIOR! YOU ARE NOW PART OF THE ELITE 
-HACKER UNDERGROUND!"
+THE ARCHITECT'S FINAL MESSAGE DECODED:
+"YOU HAVE PROVEN YOURSELF WORTHY, AGENT RANZEIN! 
+YOU ARE NOW A TRUE CYBER LEGEND AND WORTHY OF THE 
+TITLE ULTIMATE DIGITAL ARCHITECT! WELCOME TO THE 
+ELITE UNDERGROUND!"
 
-🌟 ULTIMATE REWARDS:
-🏆 ACHIEVEMENT: "DIGITAL LEGEND"
-💎 TOTAL XP EARNED: 1,500 XP
-🎖️ SPECIAL BADGE: Elite Cyber Warrior
-🔐 FINAL FLAG: CYBER{R4NZ31N_M4ST3R_H4CK3R_2024}
-⚡ RANK: DIGITAL ARCHITECT
-🌌 STATUS: WELCOME TO THE ELITE UNDERGROUND
+🌟 ULTIMATE LEGENDARY REWARDS:
+🏆 ACHIEVEMENT: "ULTIMATE DIGITAL ARCHITECT"
+💎 TOTAL XP EARNED: 2,000 XP (MAXIMUM LEVEL)
+🎖️ FINAL RANK: CYBER LEGEND → ULTIMATE DIGITAL ARCHITECT
+🔐 OMEGA FLAG: CYBER{R4NZ31N_ULT1M4T3_D1G1T4L_4RCH1T3CT_2024}
+⚡ LEGENDARY STATUS: OMEGA CYBER WARRIOR
+🌌 TITLE: ULTIMATE DIGITAL ARCHITECT
+👑 EXCLUSIVE ACCESS: Secret Elite Underground Network
 
-🎊 CONGRATULATIONS! 🎊
-You have successfully completed all challenges and proven 
-yourself worthy of the title "CYBER LEGEND"!
+🎊 CONGRATULATIONS, ULTIMATE DIGITAL ARCHITECT! 🎊
+You have successfully conquered all dimensions and proven 
+yourself as the ultimate cyber warrior. Your name will be 
+etched in the digital hall of legends forever!
 
-Your coding skills, persistence, and problem-solving 
-abilities mark you as a true digital warrior!
+Your exceptional skills in problem-solving, persistence, 
+and digital mastery mark you as a true CYBER LEGEND!
+
+WELCOME TO THE PANTHEON OF DIGITAL GODS! 👑
 ```
 
 </details>
 </details>
+
+---
+
+## 🏆 HALL OF DIGITAL LEGENDS
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RANZEIN&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews&no-bg=false"/>
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE - DEVOURING CODE COMMITS
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RANZEIN/RANZEIN/output/snake.svg" alt="Snake eating my contributions" />
+</div>
 
 ---
 
@@ -319,102 +392,69 @@ abilities mark you as a true digital warrior!
 
 <div align="center">
 
-### 📡 SECURE COMMUNICATION CHANNELS
+### 📡 SECURE DIGITAL COMMUNICATION CHANNELS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/muhammad-andhika-rahmani/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:randhikaaa@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:randhikaaa@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/RANZEIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=0d1117)](https://ranzein.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](#)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](#)
 
 </div>
 
 ---
 
-## 🏆 DIGITAL HALL OF FAME
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RANZEIN&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews&no-bg=true"/>
-</div>
-
----
-
-## 💼 FEATURED CYBER PROJECTS
+## 💡 DIGITAL WISDOM & INSPIRATION
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RANZEIN&repo=awesome-flutter-app&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00d4aa&border_color=00ff41&border_radius=15)](https://github.com/RANZEIN/awesome-flutter-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RANZEIN&repo=mobile-ui-kit&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00d4aa&border_color=00ff41&border_radius=15)](https://github.com/RANZEIN/mobile-ui-kit)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20future%20belongs%20to%20those%20who%20learn%20more%20skills%20and%20combine%20them%20in%20creative%20ways&author=Robert%20Greene)
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION GRAPH - THE CODE SNAKE
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RANZEIN/RANZEIN/output/snake.svg" alt="Snake eating contributions" />
-</div>
-
----
-
-## 💡 RANDOM CYBER WISDOM
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker)
-
-</div>
-
----
-
-## 📈 REAL-TIME METRICS
+## 📈 REAL-TIME CYBER METRICS
 
 <div align="center">
 
 ```
-┌─[SYSTEM-MONITOR]─[REAL-TIME-STATS]
-├─ 📊 Current Status: CODING IN PROGRESS...
-├─ ⚡ Energy Level: ████████░░ 80%
-├─ ☕ Coffee Counter: 47 cups this week
-├─ 🎯 Focus Mode: MAXIMUM OVERDRIVE
-├─ 🚀 Next Mission: Building the future
-└─ 💻 Lines of Code Today: 247 lines
+┌─[RANZEIN-MONITORING-SYSTEM]─[REAL-TIME-DASHBOARD]
+├─ 📊 System Status: ONLINE & OPTIMIZED
+├─ ⚡ Performance Level: ████████████ 100%
+├─ ☕ Coffee Consumption: 47 cups this week
+├─ 🎯 Focus Protocol: MAXIMUM ENGAGEMENT MODE
+├─ 🚀 Current Mission: Building Tomorrow's Apps
+├─ 💻 Daily Code Output: 518+ lines committed
+├─ 🔥 Coding Streak: ON FIRE 🔥
+└─ 🌟 Motivation Level: LEGENDARY STATUS
 ```
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00d4aa,100:0099ff&height=150&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=30&fontColor=ffffff&animation=twinkling&desc=Keep%20coding,%20keep%20creating,%20keep%20being%20awesome!&descSize=15"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=🚀+Thanks+for+visiting+my+digital+realm!;💻+May+your+code+compile+on+the+first+try;🌟+Keep+building+amazing+things!;⚡+See+you+in+the+matrix,+fellow+coder!;🎮+Game+completed.+You+are+now+a+Cyber+Legend!" alt="Goodbye Message" />
-</div>
+## 🚀 RECENT CONTRIBUTIONS - MAKING DIGITAL MAGIC
 
 <div align="center">
 
-```
-┌─[RANZEIN@CYBER-TERMINAL]─[~]
-└──╼ $ echo "Mission accomplished. Until next time, Agent..."
-Mission accomplished. Until next time, Agent...
+### 📅 JULY 1, 2025 - LATEST CYBER ACTIVITIES
 
-┌─[RANZEIN@CYBER-TERMINAL]─[~] 
-└──╼ $ logout
-Connection to cyber-dimension closed.
-See you in the next reality... 🌌
-```
+**🔥 Recent Repository Updates:**
+- 🚀 **laravel-kids-webstore**: 8 commits (Mobile e-commerce solution)
+- 🎵 **php-soundboard-api-master**: 4 commits (Audio streaming API)
+- 📱 **RANZEIN Profile**: 3 commits (This amazing profile!)
+
+**📊 Contribution Highlights:**
+- ✅ 15 commits across 3 repositories
+- 🎯 518 total contributions this year
+- 🔥 Consistent daily coding streak maintained
+- 💡 Multiple active projects in development
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100" alt="Closing GIF"/>
-  <br>
-  <b>🔒 END OF TRANSMISSION 🔒</b><br>
-  <i>This profile is protected by quantum encryption</i>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom
