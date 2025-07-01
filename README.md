@@ -14,7 +14,7 @@
 ![Contributions](https://img.shields.io/badge/CONTRIBUTIONS-518-00ff41?style=for-the-badge&labelColor=0d1117)
 <!-- ![Years Badge](https://badges.pufler.dev/years/RANZEIN?style=for-the-badge&color=ff6b6b&labelColor=0d1117) -->
 
-</div>
+<!-- </div> -->
 
 ---
 
