@@ -1,9 +1,14 @@
+<!-- Banner -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" height="250" alt="Matrix Digital Rain"/>
 </div>
 
 ---
-  
+
+<div align="center">
+
+<!-- Badges -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=RANZEIN&style=for-the-badge&color=00ff41&labelColor=0d1117&label=CYBER+VISITORS)
 ![GitHub followers](https://img.shields.io/github/followers/RANZEIN?style=for-the-badge&color=00d4aa&labelColor=0d1117&logo=github)
 ![GitHub stars](https://img.shields.io/github/stars/RANZEIN?style=for-the-badge&color=0099ff&labelColor=0d1117&logo=github)
@@ -29,9 +34,11 @@
 
 </div>
 
-<div align="center">
+---
 
-### 📊 TECHNOLOGY MASTERY LEVELS
+## 📊 TECHNOLOGY MASTERY LEVELS
+
+<div align="center">
 
 | **Domain** | **Technologies** | **Mastery Level** |
 |:---:|:---:|:---:|
@@ -42,8 +49,8 @@
 | **Database Management** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) | ████████░░░░ 80% |
 
 </div>
----
 
+---
 
 ## 🏆 HALL OF DIGITAL LEGENDS
 
@@ -70,5 +77,7 @@
 
 ---
 
+<!-- Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
