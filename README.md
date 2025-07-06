@@ -36,7 +36,7 @@ I'm RANZEIN, a UI/UX Designer and Frontend Developer with a deep passion for cre
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" width="700"/>
   <br>
-  <i>Watch your contributions come alive as a Snake!</i>
+  <i>Watch my contributions come alive as a Snake!</i>
 </div>
 
 
