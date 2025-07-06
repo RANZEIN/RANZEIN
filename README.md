@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" height="250" alt="Matrix Digital Rain"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" height="100" alt="Matrix Digital Rain"/>
 </div>
 
 ### Hi there 👋🏻
@@ -25,9 +25,10 @@ I'm RANZEIN, a UI/UX Designer and Frontend Developer with a deep passion for cre
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/randhiikaaa)
-<!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ProgrammingWithFlexZ) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-andhika-rahmani/)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranzdhika@gmail.com)
+[![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/RANZEIN)
+[![Behance](https://img.shields.io/badge/Behance-%23191919?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ranzein)
   
 ###
 
@@ -36,8 +37,6 @@ I'm RANZEIN, a UI/UX Designer and Frontend Developer with a deep passion for cre
   <br>
   <i>Watch your contributions come alive as a Snake!</i>
 </div>
-
-<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N21CN49Q) -->
 
 
 
