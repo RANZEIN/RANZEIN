@@ -1,3 +1,8 @@
+<!-- Banner -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" height="250" alt="Matrix Digital Rain"/>
+</div>
+
 ### Hi there 👋🏻
 
 # About Me
@@ -5,7 +10,7 @@ I'm RANZEIN, a UI/UX Designer and Frontend Developer with a deep passion for cre
 
 * 📱 UI/UX Designer & Frontend Developer
 
-* ✨ UI / UX Enthusiast
+* ✨ Mobile App Developer Enthusiast
 
 * 💻 Committed to writing clean, efficient code
 
@@ -17,26 +22,18 @@ I'm RANZEIN, a UI/UX Designer and Frontend Developer with a deep passion for cre
 
 # Reach me via 👇🏻
 
+<div align="center">
 
-  <a href="https://instagram.com/randhiikaaa" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3e1066a5-35cc-4ce4-9035-6fc457c7e4c9"  height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/c/ProgrammingWithFlexZ" target="_blank">
-    <img src="https://github.com/user-attachments/assets/191ecd5f-d6c5-4348-ab46-23f9ccd41fb8" height="30" alt="youtube logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-andhika-rahmani/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/6708f656-58c5-4305-bce9-62663961137a" height="30" alt="linkedin logo"  />
-  </a>
-  <!-- <a href="https://tlgrm.in/Codewithflexz" target="_blank">
-    <img src="https://github.com/user-attachments/assets/e9b394e0-79b0-475f-baf0-15e6b92864bb" height="30" alt="telegram logo"  />
-  </a> -->
-  <a href="mailto:ranzdhika@gmail.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/84b6b4d7-2838-4672-80d4-0b0cc56e5445" height="30" alt="gmail logo"  />
-  </a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/randhiikaaa)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ProgrammingWithFlexZ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-andhika-rahmani/)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranzdhika@gmail.com)
 
-  <a href="https://zaap.bio/CodeWithFlexz" target="_blank" rel="noreferrer">
-  <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" width="30" />
-  </a>
+</div>
+
+<a href="https://zaap.bio/CodeWithFlexz" target="_blank" rel="noreferrer">
+<img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" width="30" />
+</a>
   
 ###
 
