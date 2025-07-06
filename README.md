@@ -27,9 +27,9 @@ I'm RANZEIN, a UI/UX Designer and Frontend Developer with a deep passion for cre
   <a href="https://www.linkedin.com/in/muhammad-andhika-rahmani/" target="_blank">
     <img src="https://github.com/user-attachments/assets/6708f656-58c5-4305-bce9-62663961137a" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://tlgrm.in/Codewithflexz" target="_blank">
+  <!-- <a href="https://tlgrm.in/Codewithflexz" target="_blank">
     <img src="https://github.com/user-attachments/assets/e9b394e0-79b0-475f-baf0-15e6b92864bb" height="30" alt="telegram logo"  />
-  </a>
+  </a> -->
   <a href="mailto:ranzdhika@gmail.com" target="_blank">
     <img src="https://github.com/user-attachments/assets/84b6b4d7-2838-4672-80d4-0b0cc56e5445" height="30" alt="gmail logo"  />
   </a>
