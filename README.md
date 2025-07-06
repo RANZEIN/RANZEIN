@@ -25,15 +25,9 @@ I'm RANZEIN, a UI/UX Designer and Frontend Developer with a deep passion for cre
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/randhiikaaa)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ProgrammingWithFlexZ)
+<!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ProgrammingWithFlexZ) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-andhika-rahmani/)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranzdhika@gmail.com)
-
-</div>
-
-<a href="https://zaap.bio/CodeWithFlexz" target="_blank" rel="noreferrer">
-<img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" width="30" />
-</a>
   
 ###
 
